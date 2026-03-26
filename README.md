@@ -7,8 +7,8 @@ The Cafe Sales Cleanup project aimed to create a useable data for practical use.
 ### Skills Learned
 
 - Ability to identify different types of missing data.
-- Different techniques to impute data.
-- Data cleaning tools in excel.
+- Implement different techniques to impute data.
+- Utilize aata cleaning tools in excel.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
