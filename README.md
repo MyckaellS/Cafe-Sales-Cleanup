@@ -8,13 +8,20 @@ The Cafe Sales Cleanup project aimed to create a useable data for practical use.
 
 - Ability to identify different types of missing data.
 - Implement different techniques to impute data.
-- Utilize aata cleaning tools in excel.
+- Utilize data cleaning tools in excel.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+I cleaned this data using Excel. The dataset is from
+<a href="https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training"> Kaggle. </a>
 
-Example below.
+<img width="794" height="669" alt="Screenshot 2026-03-28 125304" src="https://github.com/user-attachments/assets/1f1c79ca-b8d8-4825-a66e-fca35ea135ba" />
 
-*Ref 1: Network Diagram*
+*Ref 1: Preview of data before cleaning*
+
+I started with removing duplicates using Excel's built-in "Remove Duplicates" feature. No duplicates were found.
+
+
+<img width="794" height="669" alt="Screenshot 2026-03-28 125402" src="https://github.com/user-attachments/assets/f1654384-da72-4b9e-9d22-54cdeeefc147" />
+
+*Ref 2: Preview of data after cleaning*
