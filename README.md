@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Cafe Sales Cleanup project aimed to create a useable data for practical use. The primary focus was to fill in missing values as accurately as possible. This experience was designed to widen my knowledge in different ways to accomplish the same task.
+The Cafe Sales Cleanup project aimed to create a useable data for practical use. The primary focus was to fill in missing values as accurately as possible. This experience was designed to widen my knowledge in different ways to accomplish the same task. This data set is from <a href="https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training"> Kaggle. </a>
 
 ### Skills Learned
 
