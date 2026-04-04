@@ -8,7 +8,7 @@ The Cafe Sales Cleanup project aimed to create a useable data for practical use.
 
 - Ability to identify different types of missing data.
 - Implement different techniques to impute data.
-- Utilize data cleaning tools in excel.
+- Utilize data cleaning tools in Excel.
 
 ## Steps
 
@@ -21,11 +21,11 @@ I cleaned this data using Excel. The dataset is from
 
 ### Step 1: Remove Duplicate Values
 
-I started with removing duplicates using Excel's built-in "Remove Duplicates" feature.
+I started by removing duplicates using Excel's built-in "Remove Duplicates" feature.
 
 <img width="368" height="296" alt="Screenshot 2026-03-30 165016" src="https://github.com/user-attachments/assets/0ca6ec21-f852-4e15-bd50-13e82c80b6ab" />
 
-*Ref 2: "Remove Duplicates" button in Data tab in excel*
+*Ref 2: "Remove Duplicates" button in the Data tab in Excel*
 
 ### Step 2: Normalize Data
 
@@ -33,7 +33,7 @@ The next step involved normalizing the data, which included ensuring consistency
 
 ### Step 3: Handle Null and Blank Values
 
-The thrid step was the most tedious, as it involved handling the null and blank values. I applied different impuation techniques depending on the field. I used:
+The third step was the most tedious, as it involved handling the null and blank values. I applied different impuation techniques depending on the field. I used:
 
 - Mean imputation for quantity and location
 - Forward fill for missing date values
